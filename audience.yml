@@ -1,4 +1,4 @@
-name: audience
+name: hello
 channels:
   - defaults
 dependencies:
@@ -28,5 +28,5 @@ dependencies:
   - wheel=0.34.2=py36_0
   - xz=5.2.5=h7b6447c_0
   - zlib=1.2.11=h7b6447c_3
-prefix: /home/chris/miniconda3/envs/audience
+prefix: /root/miniconda3/envs/hello
 
